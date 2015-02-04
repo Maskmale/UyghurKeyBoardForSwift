@@ -1,0 +1,2 @@
+# UyghurKeyBoardForSwift
+Swift_UyghurKeyBoard
